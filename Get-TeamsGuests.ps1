@@ -17,8 +17,9 @@ Write-Host "MicrosoftTeams PowerShell module is not installed"
 Write-Host ""
 $isadmin = New-Object Security.Principal.WindowsPrincipal([Security.Principal.WindowsIdentity]::GetCurrent())
 $isadmin = $isadmin.IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)
-if ($isadmin -eq "True") {Write-Host "Installing MicrosoftTeams PowerShell module"
-if(!(Get-PackageProvider -ListAvailable -Name NuGet)) {Install-PackageProvider -name NuGet -requiredversion 2.8.5.208 -Force}
+if ($isadmin -eq "True") {if(!(Get-PackageProvider -ListAvailable -Name NuGet)) {Write-Host "Installing NuGet 2.8.5.208"
+Install-PackageProvider -name NuGet -requiredversion 2.8.5.208 -Force}
+Write-Host "Installing MicrosoftTeams PowerShell module"
 Install-Module MicrosoftTeams -Force -ErrorAction Stop
 sleep 3
 Connect-MicrosoftTeams -ErrorAction Stop}
