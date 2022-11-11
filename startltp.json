@@ -2,13 +2,13 @@
     "primaryOEMPins": [
         {
             "desktopAppId": "Microsoft.Office.OUTLOOK.EXE.15",
-            "desktopAppLink": "%APPDATA\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Teams (work or school).lnk"
+            "desktopAppLink": "%APPDATA%\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Teams (work or school).lnk"
         }
     ],
     "secondaryOEMPins": [
         {
             "packagedAppId": "Microsoft.CompanyPortal_8wekyb3d8bbwe!App",
-            "desktopAppLink": "%APPDATA\\Microsoft\\Windows\\Start Menu\\Programs\\M2C IT Portal.url"
+            "desktopAppLink": "%APPDATA%\\Microsoft\\Windows\\Start Menu\\Programs\\M2C IT Portal.url"
         }
     ],
     "firstRunOEMPins": [
