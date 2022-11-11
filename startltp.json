@@ -1,0 +1,58 @@
+{
+    "pinnedList": [
+        {
+            "desktopAppId": "Microsoft.Office.OUTLOOK.EXE.15"
+        },
+        {
+            "desktopAppId": "Microsoft.Office.WINWORD.EXE.15"
+        },
+        {
+            "desktopAppId": "MSEdge"
+        },
+        {
+            "desktopAppId": "Microsoft.Office.EXCEL.EXE.15"
+        },
+        {
+            "desktopAppId": "Microsoft.Office.POWERPNT.EXE.15"
+        },
+        {
+            "desktopAppId": "Microsoft.Office.ONENOTE.EXE.15"
+        },
+        {
+            "desktopAppId": "Microsoft.SkyDrive.Desktop"
+        },
+        {
+            "desktopAppId": "com.squirrel.Teams.Teams"
+        },
+        {
+            "packagedAppId": "Microsoft.CompanyPortal_8wekyb3d8bbwe!App"
+        },
+        {
+            "desktopAppId": "{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\TeamViewer\\TeamViewer.exe"
+        },
+        {
+            "desktopAppId": "{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\Adobe\\Acrobat Reader DC\\Reader\\AcroRd32.exe"
+        },
+        {
+            "packagedAppId": "Microsoft.ScreenSketch_8wekyb3d8bbwe!App"
+        },
+        {
+            "packagedAppId": "Microsoft.Paint_8wekyb3d8bbwe!App"
+        },
+        {
+            "packagedAppId": "Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe!App"
+        },
+        {
+            "packagedAppId": "Microsoft.WindowsAlarms_8wekyb3d8bbwe!App"
+        },
+        {
+            "packagedAppId": "Microsoft.WindowsNotepad_8wekyb3d8bbwe!App"
+        },
+        {
+            "packagedAppId": "Microsoft.WindowsCalculator_8wekyb3d8bbwe!App"
+        },
+        {
+            "packagedAppId": "windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel"
+        }
+    ]
+}
