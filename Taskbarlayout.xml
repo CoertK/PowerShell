@@ -5,8 +5,7 @@
          <taskbar:TaskbarPinList>
             <taskbar:DesktopApp DesktopApplicationLinkPath="%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\Microsoft Edge.lnk" />
             <taskbar:DesktopApp DesktopApplicationLinkPath="%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\Outlook.lnk" />
-            <taskbar:DesktopApp DesktopApplicationLinkPath="%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\Word.lnk" />
-		<taskbar:DesktopApp DesktopApplicationID="Microsoft.Windows.Explorer" />
+	    <taskbar:DesktopApp DesktopApplicationID="Microsoft.Windows.Explorer" />
          </taskbar:TaskbarPinList>
       </defaultlayout:TaskbarLayout>
    </CustomTaskbarLayoutCollection>
